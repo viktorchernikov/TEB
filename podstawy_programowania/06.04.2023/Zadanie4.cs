@@ -3,7 +3,7 @@ class Zadanie4
     static void Main(string[] args)
     {
         const int m = 7;
-        int[] y = new int[m];
+        int[] y = new int[m]
 
         Console.WriteLine("Tablica Indexowana:\n");
 
